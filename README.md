@@ -7,7 +7,7 @@ Passionate Big Data Engineer with experience in designing and optimizing data so
 
 
 ## ☕ Stay Connected
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokaaref/)
+#[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokaaref/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lokaaref3)
 
 
